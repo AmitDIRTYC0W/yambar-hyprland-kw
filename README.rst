@@ -7,7 +7,7 @@ A simple module to show the current keyboard layout on Yambar when using Hyprlan
 
 Installation Instructions
 =========================
-First, install `Zig <https://ziglang.org/>`, you will use it to compile the script itself. Clone
+First, install `Zig <https://ziglang.org/>`_, you will use it to compile the script itself. Clone
 this repository:
 
 .. code-block:: sh
